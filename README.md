@@ -10,6 +10,9 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=35&duration=2000&pause=1000&color=00FFD1&center=true&vCenter=true&width=800&lines=🚀+Hey,+I'm+Logesh!;💻+Fullstack+Developer+%26+Tech+Explorer;⚡+Building+Futuristic+Projects!" />
 </h1>
+<div align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Logesh-Pro.Logesh-Pro" alt="Profile Views" />
+</div>
 
 ---
 
