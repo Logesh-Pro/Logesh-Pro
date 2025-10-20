@@ -77,7 +77,7 @@
 
 <!-- Footer -->
 <p align="center">
-  <a href="https://github.com/LogeshBalaji?tab=followers" target="_blank">
+  <a href="https://github.com/Logesh-Pro?tab=followers" target="_blank">
     <img src="https://img.shields.io/badge/Follow%20for%20more%20🔥-Click%20here-%23FF6A00?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <br>
