@@ -1,7 +1,7 @@
 <!-- Animated Header Banner -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+</p> -->
 <div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Logesh-Pro.Logesh-Pro" alt="Profile Views" />
 </div>
@@ -33,7 +33,7 @@
 
 ### 💻 I Code In
 <p align="center">
-  <img height="65" src="https://skillicons.dev/icons?i=python,c,java,html,css,bootstrap" />
+  <img height="65" src="https://skillicons.dev/icons?i=python,c,java,html,css,javascript" />
 </p>
 
 ---
@@ -55,10 +55,10 @@
 ---
 
 ### ⚡ GitHub Analytics
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Logesh-Pro&show_icons=true&theme=tokyonight&hide_border=true" height="170px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Logesh-Pro&layout=compact&theme=tokyonight&hide_border=true" height="170px"/>
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Logesh-Pro&theme=tokyonight&hide_border=true&ring=00FFD1&fire=FF6A00&currStreakLabel=00FFD1" height="180px"/>
