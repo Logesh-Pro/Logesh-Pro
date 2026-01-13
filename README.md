@@ -33,7 +33,7 @@
 
 ### 💻 I Code In
 <p align="center">
-  <img height="65" src="https://skillicons.dev/icons?i=python,c,java,html,css,javascript" />
+  <img height="65" src="https://skillicons.dev/icons?i=python,c,java,html,css,javascript,react,tailwind" />
 </p>
 
 ---
